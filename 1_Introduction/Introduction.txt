@@ -1,0 +1,22 @@
+Hands-On Python Intermediate 
+with 50 Exercises, 2 Projects, 2 Assignments & Final Exam
+
+by Musa Arda
+
+Please feel free to get in contact with the author. 
+To comment or ask technical questions about this book, you can send email to python.hands.on.book@gmail.com.
+
+The Folder Structure:
+1_Introduction
+2_PyCharm_Basics
+3_Exception_Handling
+4_Modules_and_Packages
+5_Format_Operations
+6_File_Operations
+7_Project_1_PDF_and_CSV
+8_Assignment_1_PDF_and_CSV
+9_OOP
+10_Project_2_Movie_Library
+11_Assignment_2_Movie_Library
+12_Final_Exam
+13_Conclusion
